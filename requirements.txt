@@ -1,0 +1,13 @@
+transformers==4.5.1
+lightgbm==3.2.1
+tqdm==4.60.0
+hnswlib==0.5.1
+pandas==1.2.4
+gensim==3.8.2
+torch==1.8.1
+jieba==0.42.1
+fasttext==0.9.2
+numpy==1.20.1
+joblib==1.0.1
+scikit_learn==0.24.1
+pyemd==0.5.1
