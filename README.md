@@ -6,15 +6,8 @@
 
 数据集百度云链接为：
 
-
-
-
-
-
-
-
-
-
+链接：https://pan.baidu.com/s/1Wdi4-WKLBW4WXeGf8UnZQQ 
+提取码：uivj 
 
 整个项目结构如下：
 │  bert_model.py
