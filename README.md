@@ -1,5 +1,6 @@
 # FAQ-question-answer-system
 
+## [博客链接： FAQ式问答系统](https://blog.csdn.net/qq_44193969/article/details/116128473?spm=1001.2014.3001.5502)
 基于深度学习的FAQ式问答系统
 
 所有数据集均在data文件夹里，由于数据量太大，无法上传至git
